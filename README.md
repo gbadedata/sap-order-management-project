@@ -1,7 +1,5 @@
-# SAP Order Management & Data Integrity Project
-
-**Author:** Oluwagbade Joseph Odimayo  
-**Period:** January – March 2025  
+# SAP Order Management & Data Integrity Project 
+**Period:** January - March 2025  
 **Tools:** SAP SD (VA01 / VA02 / VA03 / VK13) | Python (pandas, openpyxl) | Excel | Power Query  
 
 ---
@@ -31,8 +29,8 @@ through to discrepancy resolution and KPI reporting.
 
 | File | Description |
 |---|---|
-| `SAP_Order_Management_Project_Joseph_Odimayo.xlsx` | Main project workbook - 6 sheets including Order Register, Discrepancy Log, KPI Dashboard, Validation Checklist, and Pricing Master |
-| `SAP_Validation_Report_Joseph_Odimayo.xlsx` | Python-generated validation report - order-level pass/fail results, executive summary, weekly error trend |
+| `SAP_Order_Management_Project.xlsx` | Main project workbook - 6 sheets including Order Register, Discrepancy Log, KPI Dashboard, Validation Checklist, and Pricing Master |
+| `SAP_Validation_Report.xlsx` | Python-generated validation report - order-level pass/fail results, executive summary, weekly error trend |
 | `sap_validation_script.py` | Python script - automates pricing validation, mandatory field checks, line value integrity, and date logic across all orders |
 
 ---
