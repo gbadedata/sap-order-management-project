@@ -1,7 +1,7 @@
 """
 =============================================================================
-SAP Order Management Project — Python Validation & Discrepancy Detection Script
-Author  : Oluwagbade Joseph Odimayo
+SAP Order Management Project - Python Validation & Discrepancy Detection Script
+Author  : Oluwagbade Odimayo
 Project : SAP SD Order Management & Data Integrity Initiative
 Period  : January – March 2025
 Version : 1.0
@@ -13,7 +13,7 @@ This script replicates the data validation logic applied in SAP SD order
 processing, specifically the cross-checks that an order processor performs
 using transaction codes VA03 (order review) and VK13 (pricing condition
 records). It automates error detection, root cause classification, and
-produces a structured discrepancy report — demonstrating the process
+produces a structured discrepancy report - demonstrating the process
 improvement work completed during the project.
 
 HOW IT MAPS TO SAP WORKFLOW
